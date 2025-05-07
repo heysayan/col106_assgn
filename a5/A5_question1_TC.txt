@@ -1,0 +1,169 @@
+1a TC0
+Inserting (0,0,5)
+Inserting (-2,0,4)
+insertion successfull!
+Inserting (2,3,10)
+insertion successfull!
+Inserting (-4,6,9)
+insertion successfull!
+Inserting (-3,7,5)
+insertion successfull!
+Inserting (-3,3,4)
+insertion successfull!
+Inserting (-6,7,2)
+insertion successfull!
+Inserting (-5,4,9)
+insertion successfull!
+
+1aTC1
+Inserting (71,56,13)
+Inserting (-93,-66,6)
+insertion successfull!
+Inserting (96,-61,39)
+insertion successfull!
+Inserting (90,-92,19)
+insertion successfull!
+Inserting (41,-70,63)
+insertion successfull!
+Inserting (-84,-17,8)
+insertion successfull!
+Inserting (-26,46,23)
+insertion successfull!
+Inserting (-16,92,79)
+insertion successfull!
+Inserting (-48,-81,78)
+insertion successfull!
+Inserting (-37,76,85)
+insertion successfull!
+
+1aTC2
+Inserting (0,0,5)
+Inserting (-2,0,4)
+insertion successfull!
+Inserting (2,3,10)
+insertion successfull!
+Inserting (-4,6,9)
+insertion successfull!
+Inserting (-3,7,5)
+insertion successfull!
+Inserting (-3,3,4)
+insertion successfull!
+Inserting (-6,7,2)
+insertion successfull!
+Inserting (-5,4,9)
+insertion successfull!
+
+1aTC3
+Inserting (-33,-13,45)
+Inserting (18,-22,70)
+insertion successfull!
+Inserting (-99,2,11)
+insertion successfull!
+Inserting (-75,73,8)
+insertion successfull!
+Inserting (-47,99,94)
+insertion successfull!
+Inserting (-82,18,18)
+insertion successfull!
+Inserting (98,38,58)
+insertion successfull!
+Inserting (-97,17,70)
+insertion successfull!
+Inserting (-97,-29,63)
+insertion successfull!
+Inserting (-76,-77,22)
+insertion successfull!
+
+1aTC4
+Inserting (-4,17,39)
+Inserting (-14,3,77)
+insertion successfull!
+Inserting (0,-9,8)
+insertion successfull!
+Inserting (-18,-9,1)
+insertion successfull!
+Inserting (0,13,26)
+insertion successfull!
+Inserting (-10,18,51)
+insertion successfull!
+Inserting (-16,-8,74)
+insertion successfull!
+Inserting (-9,5,19)
+insertion successfull!
+Inserting (-10,-3,44)
+insertion successfull!
+Inserting (8,5,22)
+insertion successfull!
+
+1bTC0
+Inserting (0,0,5)
+celltowerat (0,0)
+found it!
+Inserting (-2,0,4)
+insertion successfull!
+celltowerat (-2,0)
+found it!
+Inserting (2,3,10)
+insertion successfull!
+celltowerat (2,3)
+found it!
+Inserting (-4,6,9)
+insertion successfull!
+celltowerat (-4,6)
+found it!
+Inserting (-3,7,5)
+insertion successfull!
+celltowerat (-3,7)
+found it!
+Inserting (-3,3,4)
+insertion successfull!
+celltowerat (-3,3)
+found it!
+Inserting (-6,7,2)
+insertion successfull!
+celltowerat (-6,7)
+found it!
+Inserting (-5,4,9)
+insertion successfull!
+celltowerat (-5,4)
+found it!
+celltowerat (-100,-100)
+not found!
+
+1cTC0
+Inserting (0,0,5)
+Inserting (-2,0,4)
+insertion successfull!
+Inserting (2,3,10)
+insertion successfull!
+Inserting (-4,6,9)
+insertion successfull!
+Inserting (-3,7,5)
+insertion successfull!
+Inserting (-3,3,4)
+insertion successfull!
+Inserting (-6,7,2)
+insertion successfull!
+Inserting (-5,4,9)
+insertion successfull!
+Choosecelltower (0,6,5)
+MinTower is (-3, 3)
+
+1cTC1
+Inserting (0,0,5)
+Inserting (-2,0,4)
+insertion successfull!
+Inserting (2,3,10)
+insertion successfull!
+Inserting (-4,6,9)
+insertion successfull!
+Inserting (-3,7,5)
+insertion successfull!
+Inserting (-3,3,4)
+insertion successfull!
+Inserting (-6,7,2)
+insertion successfull!
+Inserting (-5,4,9)
+insertion successfull!
+Choosecelltower (-2,6,2)
+MinTower is (-3, 7)

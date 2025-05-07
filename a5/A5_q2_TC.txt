@@ -1,0 +1,104 @@
+2a TC1
+Constructor starts!
+100
+0
+consturctor ends!
+Starting optimal moves!
+Optimal moves: 17
+
+2a TC2
+Constructor starts!
+100
+8
+2 37
+16 54
+9 14
+74 87
+15 82
+50 91
+10 20
+81 90
+consturctor ends!
+Starting optimal moves!
+Optimal moves: 6
+
+2a TC3
+Constructor starts!
+100
+4
+2 52
+10 91
+8 40
+42 95
+consturctor ends!
+Starting optimal moves!
+Optimal moves: 4
+
+2b TC1
+Constructor starts!
+100
+0
+consturctor ends!
+Querying (36,91)
+resullt is 1!
+
+2b TC2
+Constructor starts!
+100
+8
+2 37
+16 54
+9 14
+74 87
+15 82
+50 91
+10 20
+81 90
+consturctor ends!
+Querying (37,14)
+resullt is 1!
+
+2b TC3
+Constructor starts!
+100
+4
+2 52
+10 91
+8 40
+42 95
+consturctor ends!
+Querying (11,3)
+result is -1!
+
+2c TC1
+Constructor starts!
+100
+0
+consturctor ends!
+Best new snake: (-1,-1)
+
+2c TC2
+Constructor starts!
+100
+8
+2 37
+16 54
+9 14
+74 87
+15 82
+50 91
+10 20
+81 90
+consturctor ends!
+Best new snake: (37,15)
+
+2c TC3
+Constructor starts!
+100
+4
+2 52
+10 91
+8 40
+42 95
+consturctor ends!
+Best new snake: (52,42)

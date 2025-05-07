@@ -1,0 +1,15 @@
+if x<0 , y<0, N<0		never possible	-1
+
+if x<0 , y<0 , N>0	never possible	-1
+
+if x<0 , y>0 , N<0	never possible	-1
+
+if x<0 , y>0 , N>0	never possible	-1
+
+if x>0 , y<0, N<0		do BFS starting from y if N is reachable then	+1 else -1
+
+if x>0 , y<0 , N>0	do BFS starting from y if N is reached in shorter way compared to before then +1 else -1
+
+if x>0 , y>0 , N<0	not possible -1
+
+if x>0 , y>0 , N>0	check using formula
